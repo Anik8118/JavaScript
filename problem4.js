@@ -18,6 +18,6 @@ function isPalindrome(str){
     }
 }
 
-console.log(isPalindrome("racecar"));  // Output: true
-console.log(isPalindrome("rotator"));  // Output: true
-console.log(isPalindrome("hello"));    // Output: false
+console.log(isPalindrome("racecar")); 
+console.log(isPalindrome("rotator"));  
+console.log(isPalindrome("hello"));    
